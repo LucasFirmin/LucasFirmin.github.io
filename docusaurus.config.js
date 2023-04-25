@@ -84,6 +84,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  deploymentBranch: "gh-pages",
 };
 
 module.exports = config;
